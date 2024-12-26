@@ -1,0 +1,80 @@
+.logo_place_header {
+  position: absolute;
+  width: 228px;
+  height: 32px;
+  top: 30px;
+  left: 64px;
+  z-index: 2;
+}
+
+/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
+.section-title
+{
+  width: 60%;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 1;
+}
+
+.section-subtitle
+{
+  width: 60%;
+  line-height: 34px;
+  font-size: 24px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  z-index: 1;
+}
+
+
+
+/* и элемента с модификатором вида ключ-значение */
+
+
+.section-title_theme_dark
+{
+  color: white;
+}
+
+.section-subtitle_theme_dark
+{
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.logo_place_footer
+{
+  width: 228px;
+  height: 32px;
+}
+
+
+
+
+
+
+
+
+
+.social__icons
+{
+  margin-right: 10px;
+}

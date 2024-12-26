@@ -1,0 +1,7 @@
+.column__links
+{
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 16px;
+}
